@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "聖者の行進",
+  "base_artist": "back number",
+  "createdAt": "2025-12-04T14:14:53.042402Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "聖者の行進 - When The Weak Go Marching In",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_聖者の行進_-_When_The_Weak_Go_Marching_In_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "聖者の行進",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_聖者の行進_back_number.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "聖者の行進",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/03_聖者の行進_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "聖者の行進",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/04_聖者の行進_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "聖者の行進",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/05_聖者の行進_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "聖者の行進",
+      "artist": "Yuko Ando",
+      "has_synced": false,
+      "path": "select/06_聖者の行進_Yuko_Ando.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "聖者の行進",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_聖者の行進_back_number.txt"
+    }
+  ]
+}
